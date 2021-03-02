@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticeLesson</string>
+    <string name="main_buttontext">Отправить текст</string>
+    <string name="result_text">"Переданный параметр: "</string>
+</resources>
